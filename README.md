@@ -7,8 +7,6 @@
 
 - 📫 How to reach me **aung.yehtet1738@gmail.com**
 
-- **Any fool can write code that a computer can understand. Good programmers write code that humans can understand.     (Martin Fowler)**
-
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/aung-ye-htet-93b36325a/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="aung-ye-htet-93b36325a/" height="30" width="40" /></a>
