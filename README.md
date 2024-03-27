@@ -1,8 +1,8 @@
-<h2 align="center">
+<h1 align="center">
     Hi <img src="https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif" alt="Hi! I'm Sinux"> I'm Sinux
-</h2>
+</h1>
 
-<h4 align="center">JavaScript Developer</h3>
+<h3 align="center">JavaScript Developer</h3>
 
 * ✉️  You can contact me at [aung.yehtet1738@gmail.com](mailto:aung.yehtet1738@gmail.com)
 * 🧠  I'm currently learning Node.js
