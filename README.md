@@ -4,11 +4,11 @@
 
 <h3 align="center">A passionate software engineer currently focusing on backend development. As a junior-level developer, I'm enthusiastic about learning new web technologies and honing my skills to build robust and scalable applications</h3>
 
-* 🧠  I'm currently learning Node.js
+
 * 🌱 **Learning:** Actively expanding my knowledge in web technologies, with a keen interest in backend development.
 * 💻 **Tech Stack:** Gaining proficiency in JavaScript, Node.js, Express.js, and databases like MongoDB and MySQL.
 * 🚀 **Projects:** Working on personal projects to apply my skills and experiment with new tools and frameworks.
-* ✉️  You can contact me at [aung.yehtet1738@gmail.com](mailto:aung.yehtet1738@gmail.com)
+* ✉️ You can contact me at [aung.yehtet1738@gmail.com](mailto:aung.yehtet1738@gmail.com)
 
 
 <img align="right" alt="Coding" width="450" src="https://miro.medium.com/v2/resize:fit:996/1*um19N_oeTKlmrHMov0O5bA.gif" />
