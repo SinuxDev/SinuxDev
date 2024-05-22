@@ -2,7 +2,7 @@
     Hi <img src="https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif" alt="Hi! I'm Sinux"> I'm Sinux
 </h1>
 
-<h4 align="center">I'm a passionate software engineer currently focusing on backend development. As a junior-level developer, I'm enthusiastic about learning new web technologies and honing my skills to build robust and scalable applications</h4>
+<h3 align="center">I'm a passionate software engineer currently focusing on backend development. As a junior-level developer, I'm enthusiastic about learning new web technologies and honing my skills to build robust and scalable applications</h3>
 
 * 🧠  I'm currently learning Node.js
 * 🌱 **Learning:** Actively expanding my knowledge in web technologies, with a keen interest in backend development.
