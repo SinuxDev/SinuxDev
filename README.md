@@ -1,18 +1,9 @@
-<h1 align="center">
-    Hi <img src="https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif" alt="Hi! I'm Sinux"> I'm Sinux
-</h1>
+<h3 align="center">I'm enthusiastic about learning new web technologies and currently focusing on backend development. Improving my skills to build robust and scalable applications</h3>
 
-<h3 align="center">A passionate software engineer currently focusing on backend development. As a junior-level developer, I'm enthusiastic about learning new web technologies and honing my skills to build robust and scalable applications</h3>
-
-
-* 🌱 **Learning:** Actively expanding my knowledge in web technologies, with a keen interest in backend development.
-* 💻 **Tech Stack:** Gaining proficiency in JavaScript, Node.js, Express.js, and databases like MongoDB and MySQL.
-* 🚀 **Projects:** Working on personal projects to apply my skills and experiment with new tools and frameworks.
+* 💻 **Tech Stack:** JavaScript, Node.js, Express.js, and databases like MongoDB and MySQL.
 * ✉️ You can contact me at [aung.yehtet1738@gmail.com](mailto:aung.yehtet1738@gmail.com)
 
-
 <img align="right" alt="Coding" width="450" src="https://miro.medium.com/v2/resize:fit:996/1*um19N_oeTKlmrHMov0O5bA.gif" />
-
 
 ### Skills
 
@@ -24,8 +15,6 @@
 ### Get in Touch
 
 <p align="left"> <a href="https://www.facebook.com/desmond.desmondabreu.1" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/facebook-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/facebook.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/facebook.svg" width="32" height="32" /> </picture> </a> <a href="https://www.github.com/SinuxDev" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /> </picture> </a> <a href="https://www.linkedin.com/in/aung-ye-htet-sinuxdev/" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /> </picture> </a></p>
-
-### Badges
 
 <b>My GitHub Stats</b>
 
