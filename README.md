@@ -1,4 +1,4 @@
-<h3 align="center">I'm enthusiastic about learning new web technologies and currently focusing on backend development. Improving my skills to build robust and scalable applications</h3>
+<h3 align="center">I'm enthusiastic about learning new web technologies and currently focusing on backend development. Improving my skills to build robust and scalable applications.</h3>
 
 * 💻 **Tech Stack:** JavaScript, Node.js, Express.js, and databases like MongoDB and MySQL.
 * ✉️ You can contact me at [aung.yehtet1738@gmail.com](mailto:aung.yehtet1738@gmail.com)
