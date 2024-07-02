@@ -1,4 +1,4 @@
-<h3 align="center">I'm passionate about learning new web technologies, with a current focus on the MERN Stack. I'm dedicated to enhancing my skills to build robust and scalable applications.</h3>
+<h3 align="center">I'm passionate about learning new web technologies, with a current focus on the MERN Stack. <br /> I'm dedicated to enhancing my skills to build robust and scalable applications.</h3>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=SinuxDev&label=Profile%20views&color=0e75b6&style=flat" alt="SinuxDev" /> </p>
 
 <img align="right" height=200 width=auto src="https://media.giphy.com/media/Ws6T5PN7wHv3cY8xy8/giphy.gif?cid=790b7611jcpwd0ix2b3xgiijixclkmlq0aez99mi9p1yp4xb&ep=v1_gifs_search&rid=giphy.gif&ct=g" />
